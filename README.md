@@ -18,7 +18,7 @@ Currently, the tool supports 6 different types of network model problems:
 - Traveling Salesperson Problem
 
 
-Detailed usage guidelines can be found in: [Handbook of TOOL 1: Excel to Gurobi for Network Models]().
+Detailed usage guidelines can be found in: [Handbook of TOOL 1: Excel to Gurobi for Network Models](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/%E3%80%90PDF%E3%80%91Handbook%20of%20TOOL%201.%20Excel%20to%20Gurobi%20for%20Network%20Models.pdf).
 
 ## TOOL 2: Gurobi All-in-One Jupyter GUI
 
@@ -26,7 +26,7 @@ For those seeking an even more user-friendly experience, I have further good new
 
 ![Gurobi All-in-One Jupyter GUI](https://github.com/ihenrywu/IMAGES/blob/main/Gurobi-Tool-Network-Model/screenshot%20of%20ipynb%20file.png?raw=true)
 
-Detailed usage guidelines can be found in:[Handbook of TOOL 2: Gurobi All-In-One Jupyter GUI](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/%E3%80%90PDF%E3%80%91Handbook%20of%20Gurobi%20All-In-One%20Jupyter%20GUI.pdf).
+Detailed usage guidelines can be found in:[Handbook of TOOL 2: Gurobi All-In-One Jupyter GUI](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/%E3%80%90PDF%E3%80%91Handbook%20of%20TOOL%202.%20Gurobi%20All-In-One%20Jupyter%20GUI.pdf).
 
 It's worth noting that these tools have a drawback: their ease of use allows users to obtain correct answers without fully grasping the underlying principles. While this could be a concern for educational contexts, the open-source nature of these tools provides a valuable opportunity for students to explore the practical applications of Gurobi and Jupyter further.
 
