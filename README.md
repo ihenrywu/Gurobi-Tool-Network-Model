@@ -18,7 +18,7 @@ Currently, the tool supports 6 different types of network model problems:
 - Traveling Salesperson Problem
 
 
-Detailed usage guidelines can be found in: [Handbook of Excel to Gurobi for Network Models](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/%E3%80%90PDF%E3%80%91Handbook%20of%20Gurobi%20All-In-One%20Jupyter%20GUI.pdf).
+Detailed usage guidelines can be found in: [Handbook of TOOL 1: Excel to Gurobi for Network Models]().
 
 ## TOOL 2: Gurobi All-in-One Jupyter GUI
 
@@ -26,14 +26,18 @@ For those seeking an even more user-friendly experience, I have further good new
 
 ![Gurobi All-in-One Jupyter GUI](https://github.com/ihenrywu/IMAGES/blob/main/Gurobi-Tool-Network-Model/screenshot%20of%20ipynb%20file.png?raw=true)
 
-Detailed usage guidelines can be found in:[Handbook of Gurobi All-In-One Jupyter GUI]().
+Detailed usage guidelines can be found in:[Handbook of TOOL 2: Gurobi All-In-One Jupyter GUI](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/%E3%80%90PDF%E3%80%91Handbook%20of%20Gurobi%20All-In-One%20Jupyter%20GUI.pdf).
 
 It's worth noting that these tools have a drawback: their ease of use allows users to obtain correct answers without fully grasping the underlying principles. While this could be a concern for educational contexts, the open-source nature of these tools provides a valuable opportunity for students to explore the practical applications of Gurobi and Jupyter further.
+
+## Execute Model without Gurobi License
+
+Execute Gurobi in Jupyter notebook need a Gurobi license and install Jupyter. Good news is that "Google Colab provides an easy way to use Gurobi with Python + Jupyter notebooks, with no local software installation required", and with no license needed. See the instructions [here](https://support.gurobi.com/hc/en-us/articles/4409582394769-Google-Colab-Installation-and-Licensing).
+
+Or you can use the Colab Version of TOOL 1 directly: [TOOL 1: Excel to Gurobi for Network Models(Colab Version)](https://colab.research.google.com/drive/1SiWc0q-otM1BLDBTDK7LbzFCiSr3x1Rm?authuser=5)
 
 ## Acknowledgments
 
 I extend my heartfelt gratitude to [Professor Steven Shechter](https://www.sauder.ubc.ca/people/steven-shechter) and Zack, whose guidance and support have been indispensable in developing these tools.
-
-Let us all embrace the power and efficiency of Gurobi for making optimal decisions!
 
 >For any questions, feedback, or further discussion about these tools, please don't hesitate to reach out to me: [ihenrywu.ca#gmail.com]() or [LinkedIn](https://www.linkedin.com/in/ihenrywu/).
