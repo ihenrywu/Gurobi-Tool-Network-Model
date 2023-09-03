@@ -1,12 +1,12 @@
 # Gurobi Tool for Network Models
 
-Gurobi is a renowned tool in decision optimization, yet its complexity often deters novices, particularly those without a background in programming. Thanks to [Zack Zhu](https://github.com/ziqianzhu), who created the [Gurobi-Optimization-Class-Tool](https://github.com/ziqianzhu/gurobi-optimization-class-tool/) to streamline Gurobi's usage for beginners. His tool enables users to input variables and constraints into an Excel sheet and then execute Gurobi via a Jupyter Notebook, making it particularly beneficial for educational settings. It allows students to concentrate on conceptual understanding rather than programming nuances. Building on Zack's foundation, I am pleased to introduce a tool specifically designed for optimization problems that require network models.
+Gurobi is a renowned tool in decision optimization, yet its complexity often deters novices, particularly those without a background in programming. Thanks to [Zack Zhu](https://github.com/ziqianzhu), who created the [Gurobi-Optimization-Class-Tool](https://github.com/ziqianzhu/gurobi-optimization-class-tool/) to streamline Gurobi's usage for beginners. His tool enables users to input variables and constraints into an Excel sheet and then execute Gurobi via a Jupyter Notebook, making it particularly beneficial for educational settings. It allows students to concentrate on conceptual understanding rather than programming nuances. Building on Zack's foundation, I am pleased to introduce 2 tools specifically designed for optimization problems that require **Network Models**.
 
 ## TOOL 1: Excel to Gurobi for Network Models
 
 Instead of manually inputting each variable and constraint, often a cumbersome task for Network Models, the tool [Excel_to_Gurobi_for_Network_Models.ipynb](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/%5BTOOL%201%5D%20Excel_to_Gurobi_for_Network_Models.ipynb) enables users to input only initial conditions, such as node names, inter-node relationships, and supply/demand data, into the Excel file [Excel_to_Gurobi_for_Network_Models.xlsx](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/Excel_to_Gurobi_for_Network_Models.xlsx). The code then autogenerates all relevant variables and constraints, minimizing the potential for human error and saving significant time.  
 
-![Excel_to_Gurobi_for_Network_Models](https://github.com/ihenrywu/IMAGES/blob/main/Gurobi-Tool-Network-Model/screenshot%20of%20Excel%20file.png?raw=true)
+![Excel_to_Gurobi_for_Network_Models](https://github.com/ihenrywu/IMAGES/blob/main/Gurobi-Tool-Network-Model/screenshot%20of%20Excel%20file%20readme.png?raw=true)
 
 Currently, the tool supports 6 different types of network model problems:
 
