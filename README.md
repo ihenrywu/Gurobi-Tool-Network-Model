@@ -20,6 +20,9 @@ Currently, the tool supports 6 different types of network model problems:
 
 Detailed usage guidelines can be found in: [Handbook of TOOL 1](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/%5BPDF%5D%20Handbook%20of%20TOOL%201.pdf).
 
+**Note:** Execute Gurobi in Jupyter notebook need a Gurobi license and install Jupyter. Good news is that "Google Colab provides an easy way to use Gurobi with Python + Jupyter notebooks, with no local software installation required", and with no license needed. See the instructions [here](https://support.gurobi.com/hc/en-us/articles/4409582394769-Google-Colab-Installation-and-Licensing). Or you can use the Colab Version of TOOL 1 directly: [TOOL 1: Excel to Gurobi for Network Models(Colab Version)](https://colab.research.google.com/drive/1SiWc0q-otM1BLDBTDK7LbzFCiSr3x1Rm?authuser=5)
+
+
 ## TOOL 2: Gurobi All-in-One Jupyter GUI
 
 For those seeking an even more user-friendly experience, I have further good news: [Gurobi_All_in_One_Jupyter_GUI.ipynb](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/%5BTOOL%202%5D%20Gurobi_All_in_One_Jupyter_GUI.ipynb). This interactive version allows users to bypass Excel entirely. Instead, users can input initial conditions directly into a Jupyter Notebook, following on-screen prompts. The code then autogenerates the requisite variables and constraints and fetches the results from Gurobi. This iteration further simplifies the user interface and decreases the likelihood of errors.
@@ -29,12 +32,6 @@ For those seeking an even more user-friendly experience, I have further good new
 Detailed usage guidelines can be found in:[Handbook of TOOL 2](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/%5BPDF%5D%20Handbook%20of%20TOOL%202.pdf).
 
 It's worth noting that these tools have a drawback: their ease of use allows users to obtain correct answers without fully grasping the underlying principles. While this could be a concern for educational contexts, the open-source nature of these tools provides a valuable opportunity for students to explore the practical applications of Gurobi and Jupyter further.
-
-## Execute Model without Gurobi License
-
-Execute Gurobi in Jupyter notebook need a Gurobi license and install Jupyter. Good news is that "Google Colab provides an easy way to use Gurobi with Python + Jupyter notebooks, with no local software installation required", and with no license needed. See the instructions [here](https://support.gurobi.com/hc/en-us/articles/4409582394769-Google-Colab-Installation-and-Licensing).
-
-Or you can use the Colab Version of TOOL 1 directly: [TOOL 1: Excel to Gurobi for Network Models(Colab Version)](https://colab.research.google.com/drive/1SiWc0q-otM1BLDBTDK7LbzFCiSr3x1Rm?authuser=5)
 
 ## Acknowledgments
 
