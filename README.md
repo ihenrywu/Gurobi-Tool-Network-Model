@@ -4,7 +4,7 @@ Gurobi is a renowned tool in decision optimization, yet its complexity often det
 
 ## TOOL 1: Excel to Gurobi for Network Models
 
-Instead of manually inputting each variable and constraint, often a cumbersome task for Network Models, the tool [Excel_to_Gurobi_for_Network_Models.ipynb](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/%5BTOOL%201%5D%20Excel_to_Gurobi_for_Network_Models.ipynb) enables users to input only initial conditions, such as node names, inter-node relationships, and supply/demand data. The code then autogenerates all relevant variables and constraints, minimizing the potential for human error and saving significant time.  
+Instead of manually inputting each variable and constraint, often a cumbersome task for Network Models, the tool [Excel_to_Gurobi_for_Network_Models.ipynb](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/%5BTOOL%201%5D%20Excel_to_Gurobi_for_Network_Models.ipynb) enables users to input only initial conditions, such as node names, inter-node relationships, and supply/demand data, into the Excel file [Excel_to_Gurobi_for_Network_Models.xlsx](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/Excel_to_Gurobi_for_Network_Models.xlsx). The code then autogenerates all relevant variables and constraints, minimizing the potential for human error and saving significant time.  
 
 ![Excel_to_Gurobi_for_Network_Models](https://github.com/ihenrywu/IMAGES/blob/main/Gurobi-Tool-Network-Model/screenshot%20of%20Excel%20file.png?raw=true)
 
