@@ -4,7 +4,7 @@ Gurobi is a renowned tool in decision optimization, yet its complexity often det
 
 ## TOOL 1: Excel to Gurobi for Network Models
 
-Instead of manually inputting each variable and constraint, often a cumbersome task for Network Models, the tool [Excel_to_Gurobi_for_Network_Models.ipynb](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/Excel_to_Gurobi_for_Network_Models.ipynb) enables users to input only initial conditions, such as node names, inter-node relationships, and supply/demand data. The code then autogenerates all relevant variables and constraints, minimizing the potential for human error and saving significant time.  
+Instead of manually inputting each variable and constraint, often a cumbersome task for Network Models, the tool [Excel_to_Gurobi_for_Network_Models.ipynb](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/%5BTOOL%201%5D%20Excel_to_Gurobi_for_Network_Models.ipynb) enables users to input only initial conditions, such as node names, inter-node relationships, and supply/demand data. The code then autogenerates all relevant variables and constraints, minimizing the potential for human error and saving significant time.  
 
 ![Excel_to_Gurobi_for_Network_Models](https://github.com/ihenrywu/IMAGES/blob/main/Gurobi-Tool-Network-Model/screenshot%20of%20Excel%20file.png?raw=true)
 
@@ -22,7 +22,7 @@ Detailed usage guidelines can be found in: [Handbook of TOOL 1](https://github.c
 
 ## TOOL 2: Gurobi All-in-One Jupyter GUI
 
-For those seeking an even more user-friendly experience, I have further good news: [Gurobi_All_in_One_Jupyter_GUI.ipynb](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/Gurobi_All_in_One_Jupyter_GUI.ipynb). This interactive version allows users to bypass Excel entirely. Instead, users can input initial conditions directly into a Jupyter Notebook, following on-screen prompts. The code then autogenerates the requisite variables and constraints and fetches the results from Gurobi. This iteration further simplifies the user interface and decreases the likelihood of errors.
+For those seeking an even more user-friendly experience, I have further good news: [Gurobi_All_in_One_Jupyter_GUI.ipynb](https://github.com/ihenrywu/Gurobi-Tool-Network-Model/blob/main/%5BTOOL%202%5D%20Gurobi_All_in_One_Jupyter_GUI.ipynb). This interactive version allows users to bypass Excel entirely. Instead, users can input initial conditions directly into a Jupyter Notebook, following on-screen prompts. The code then autogenerates the requisite variables and constraints and fetches the results from Gurobi. This iteration further simplifies the user interface and decreases the likelihood of errors.
 
 ![Gurobi All-in-One Jupyter GUI](https://github.com/ihenrywu/IMAGES/blob/main/Gurobi-Tool-Network-Model/screenshot%20of%20ipynb%20file.png?raw=true)
 
