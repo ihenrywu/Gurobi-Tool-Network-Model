@@ -33,6 +33,14 @@ Detailed usage guidelines can be found in:[Handbook of TOOL 2](https://github.co
 
 It's worth noting that these tools have a drawback: their ease of use allows users to obtain correct answers without fully grasping the underlying principles. While this could be a concern for educational contexts, the open-source nature of these tools provides a valuable opportunity for students to explore the practical applications of Gurobi and Jupyter further.
 
+
+## Version History
+
+**Version 20231218**
+
+Fixed a bug where the tool malfunctioned for transfer nodes when the number of demand nodes differed from the number of supply nodes.
+
+
 ## Acknowledgments
 
 I extend my heartfelt gratitude to [Professor Steven Shechter](https://www.sauder.ubc.ca/people/steven-shechter) and Zack, whose guidance and support have been indispensable in developing these tools.
